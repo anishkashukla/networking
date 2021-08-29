@@ -1,3 +1,7 @@
+---
+description: Subnetting
+---
+
 # Subnetting
 
 The word subnet is short for sub network which means a smaller network within a larger one.
