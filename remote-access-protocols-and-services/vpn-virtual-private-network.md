@@ -1,3 +1,7 @@
+---
+description: VPN (Virtual Private Network)
+---
+
 # VPN \(Virtual Private Network\)
 
 VPN \(Virtual Private Network\) -

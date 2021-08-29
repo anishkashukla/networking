@@ -1,3 +1,7 @@
+---
+description: 'VLAN, Intranet and Extranet'
+---
+
 # VLAN, Intranet and Extranet
 
 VLAN, Intranet and Extranet
