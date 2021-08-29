@@ -71,8 +71,8 @@
 ## Remote Access Protocols and Services
 
 * [Remote Access Protocols and Services](remote-access-protocols-and-services/remote-access-protocols-and-services.md)
-* [VPN \(Virtual Private Network\)](remote-access-protocols-and-services/vpn-virtual-private-network/README.md)
-  * [Types of VPN connections](remote-access-protocols-and-services/vpn-virtual-private-network/types-of-vpn-connections.md)
+* [VPN \(Virtual Private Network\)](remote-access-protocols-and-services/vpn-virtual-private-network.md)
+* [Types of VPN connections](remote-access-protocols-and-services/types-of-vpn-connections.md)
 
 ## Authentication Protocols
 
