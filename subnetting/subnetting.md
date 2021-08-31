@@ -14,7 +14,7 @@ For ex :
 
 Class B IP address : 173.16.0.0.
 
-Class A IP Address : 255.255.0.0
+Class B Subnet mask : 255.255.0.0
 
 In this, 255.255 is the network portion and 0.0 is the host portion.
 
