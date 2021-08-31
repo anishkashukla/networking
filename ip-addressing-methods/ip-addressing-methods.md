@@ -1,3 +1,7 @@
+---
+description: IP Addressing Methods
+---
+
 # IP Addressing Methods
 
 Every computer on a network has to have an ip address for communication purposes.

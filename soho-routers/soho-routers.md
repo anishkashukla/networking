@@ -1,3 +1,7 @@
+---
+description: SOHO Routers
+---
+
 # SOHO Routers
 
 SOHO Routers -

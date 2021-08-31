@@ -1,3 +1,7 @@
+---
+description: Network Types
+---
+
 # Network Types
 
 Network Types -

@@ -1,3 +1,7 @@
+---
+description: Types of VPN connections
+---
+
 # Types of VPN connections
 
 There are 3 different types of VPN connections -
